@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/gtest.dir/gtest.cpp.o CMakeFiles/gtest.dir/__/include/2dtf/2dtf.cpp.o -o gtest  /usr/local/lib/libgtest.a /usr/local/lib/libgtest_main.a -lpthread /usr/local/lib/libgtest.a 

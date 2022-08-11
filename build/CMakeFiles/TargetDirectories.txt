@@ -1,0 +1,8 @@
+/home/ab/VCodes/test_ws/try_2dtfandgtest/build/CMakeFiles/MyProject.dir
+/home/ab/VCodes/test_ws/try_2dtfandgtest/build/CMakeFiles/test.dir
+/home/ab/VCodes/test_ws/try_2dtfandgtest/build/CMakeFiles/edit_cache.dir
+/home/ab/VCodes/test_ws/try_2dtfandgtest/build/CMakeFiles/rebuild_cache.dir
+/home/ab/VCodes/test_ws/try_2dtfandgtest/build/gtest/CMakeFiles/gtest.dir
+/home/ab/VCodes/test_ws/try_2dtfandgtest/build/gtest/CMakeFiles/test.dir
+/home/ab/VCodes/test_ws/try_2dtfandgtest/build/gtest/CMakeFiles/edit_cache.dir
+/home/ab/VCodes/test_ws/try_2dtfandgtest/build/gtest/CMakeFiles/rebuild_cache.dir

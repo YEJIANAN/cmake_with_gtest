@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/MyProject.dir/src/main.cpp.o CMakeFiles/MyProject.dir/include/2dtf/2dtf.cpp.o -o MyProject 

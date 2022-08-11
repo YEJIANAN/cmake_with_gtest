@@ -1,0 +1,5 @@
+if(EXISTS "/home/ab/VCodes/test_ws/try_2dtfandgtest/build/gtest/gtest[1]_tests.cmake")
+  include("/home/ab/VCodes/test_ws/try_2dtfandgtest/build/gtest/gtest[1]_tests.cmake")
+else()
+  add_test(gtest_NOT_BUILT gtest_NOT_BUILT)
+endif()
